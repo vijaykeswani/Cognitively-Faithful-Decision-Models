@@ -1,4 +1,4 @@
-## Code: Towards Cognitively-Faithful Decision-Making Models to Improve AI Alignment
+## Towards Cognitively-Faithful Decision-Making Models to Improve AI Alignment
 
 This repository contains the implementation of the analysis presented in the paper titled ***"Towards Cognitively-Faithful Decision-Making Models to Improve AI Alignment"***. The paper proposes a new modeling strategy for learning computational models from human response data to pairwise comaprions. 
 
